@@ -28,7 +28,7 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 
 
 
-<h5>I use arch btw | Updated 26/04/2022 (2) | pls dont make fun of me for my bio, im gonna update it over time</h5>
+<h5>I use arch btw | Updated 26/04/2022 (3) | pls dont make fun of me for my bio, im gonna update it over time</h5>
 
 <!---
 notsniped/notsniped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
