@@ -18,9 +18,13 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 
 ![image](https://user-images.githubusercontent.com/72265661/165280876-2016605e-9d6f-4cc9-847b-dba8c32faff0.png)
 
+2) i am 7**69**k rank very pog
+
+![Screenshot_20220426_170657](https://user-images.githubusercontent.com/72265661/165291900-15c72256-8632-4f3a-809f-614c1f82b5cf.png)
 
 
-<h5>I use arch btw | Updated 26/04/2022 | pls dont make fun of me for my bio, im gonna update it over time</h5>
+
+<h5>I use arch btw | Updated 26/04/2022 (2) | pls dont make fun of me for my bio, im gonna update it over time</h5>
 
 <!---
 notsniped/notsniped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
