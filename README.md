@@ -4,6 +4,10 @@
 I am snipe (or notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot-python). I also own the [iso.dev](https://github.com/PyBotDevs) organization.
 If you want to collaborate or join the iso.dev organization, head over to Discord and feel free to throw me a DM.
 
+### My current projects
+- isobot (stable): [click here to view!](https://github.com/PyBotDevs/isobot-python)
+- isobot-lazer: [click here to view!](https://github.com/notsniped/isobot-lazer)
+
 ### Links
 <b>Discord Server:</b> https://discord.gg/b5pz8T6Yjr
 
