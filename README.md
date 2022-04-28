@@ -1,4 +1,4 @@
-<img title='i am pp cat lol' align='center' width='250' src='https://i.redd.it/4fpguhk9vdi51.png'>
+<img title='Cookiezi pp cat' align='center' width='250' src='https://i.redd.it/4fpguhk9vdi51.png'>
 
 <h1 align='center'>Welcome to my bio! o/</h1>
 
