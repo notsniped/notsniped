@@ -5,6 +5,7 @@
 ## Who am I?
 I am snipe (or notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot-python). I also own the [iso.dev](https://github.com/PyBotDevs) organization.
 If you want to collaborate or join the iso.dev organization, head over to Discord and feel free to throw me a DM.
+<h3>snipe's code rule: reduce (bloat), reuse and rewrite</h3>
 
 ### My current projects
 - isobot (stable): [click here to view!](https://github.com/PyBotDevs/isobot-python)
@@ -30,7 +31,7 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 
 
 
-<h6>I use arch btw | Updated 27/04/2022 | pls dont make fun of me for my bio, im gonna update it over time</h6>
+<h6>I use arch btw | Updated 28/05/2022 | pls dont make fun of me for my bio, im gonna update it over time</h6>
 
 <!---
 notsniped/notsniped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
