@@ -19,6 +19,19 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 <b>Instagram:</b> https://www.instagram.com/notsniped/
 
 ## Extras
+### [osu!](https://github.com/ppy/osu) setup
+**Play modes:** tablet, keyboard, sometimes mobile
+
+**Tablet:** Wacom Intuos CTL-4100 (drag)
+
+**Keyboard:** Corsair K55 RGB
+
+**Mouse:** Corsair Katar Pro
+
+**Display:** Lenovo (forgot the model xd)
+
+**PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Arch Linux and dead Windows 10 dualboot (im almost never using win$hit lmao), Radeon R5 graphics
+
 ### Pog
 
 1) 420 previous releases, nice (taken from: [the osu! repository](https://github.com/ppy/osu))
