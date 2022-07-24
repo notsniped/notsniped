@@ -49,16 +49,6 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 
 **PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Arch Linux and dead Windows 10 dualboot (im almost never using win$hit lmao), Radeon R5 graphics
 
-### Pog
-
-1) 420 previous releases, nice (taken from: [the osu! repository](https://github.com/ppy/osu))
-
-![image](https://user-images.githubusercontent.com/72265661/165280876-2016605e-9d6f-4cc9-847b-dba8c32faff0.png)
-
-2) i am 7**69**k rank very pog
-
-![Screenshot_20220426_170657](https://user-images.githubusercontent.com/72265661/165291900-15c72256-8632-4f3a-809f-614c1f82b5cf.png)
-
 
 
 <h6>btw i use arch | Updated 23/07/2022 | pls dont make fun of me for my bio, im gonna update it over time</h6>
