@@ -1,10 +1,8 @@
-<img title='Cookiezi pp cat' align='center' width='250' src='https://i.redd.it/4fpguhk9vdi51.png'>
-
 <h1 align='center'>Welcome to my bio! o/</h1>
 
 ## Who am I?
-I am snipe (or notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot-python). I also own the [iso.dev](https://github.com/PyBotDevs) organization.
-If you want to collaborate or join the iso.dev organization, head over to Discord and feel free to throw me a DM.
+I am snipe (notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot-lazer). I also own the [NKA Software Development](https://github.com/PyBotDevs) organization.
+If you want to collaborate or join NKA, head over to Discord and feel free to throw me a DM.
 <h3>snipe's code rule: reduce (bloat), reuse and rewrite</h3>
 
 <hr>
