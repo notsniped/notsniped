@@ -26,7 +26,7 @@ If you want to collaborate or join the iso.dev organization, head over to Discor
 <hr>
 
 ### My current projects
-- [isobot (stable)](https://github.com/PyBotDevs/isobot-python) <sub><sub><sub><sub>development on this codebase is complete, working on a new codebase for isobot</sub></sub></sub></sub>
+- [isobot (stable)](https://github.com/PyBotDevs/isobot-python) <sub><sub><sub>development on this codebase is complete, working on a new codebase for isobot</sub></sub></sub>
 - isobot-lazer: [click here to view!](https://github.com/notsniped/isobot-lazer)
 
 ### Links
