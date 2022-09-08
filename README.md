@@ -50,7 +50,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 
 
-<h6>btw i use arch | Updated 23/07/2022 | pls dont make fun of me for my bio, im gonna update it over time</h6>
+<h6>btw i use arch | Updated 08/09/2022</h6>
 
 <!---
 notsniped/notsniped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
