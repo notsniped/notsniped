@@ -12,14 +12,15 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
   <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsniped&layout=compact&langs_count=6&theme=dark">
   <br>
   <h2 align="center">Languages & Platforms</h2>
-  <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=ArchLinux&logoColor=white"/>
+  <span>
+    <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=ArchLinux&logoColor=white"/>&nbsp;&nbsp;
  </center>
 <hr>
 
