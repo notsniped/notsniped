@@ -27,6 +27,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 ### My current projects
 - [isobot (stable)](https://github.com/PyBotDevs/isobot-python) <sub><sub><sub>development on this codebase is complete, working on a new codebase for isobot</sub></sub></sub>
 - [isobot-lazer](https://github.com/notsniped/isobot-lazer) <sub><sub>new codebase!</sub></sub>
+- [discord-snipe-bot](https://github.com/notsniped/discord-snipe-bot)
 
 ### Links
 <b>Discord Server:</b> https://discord.gg/b5pz8T6Yjr
