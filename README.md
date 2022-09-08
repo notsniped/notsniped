@@ -46,7 +46,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 **Display:** Lenovo (forgot the model xd)
 
-**PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Arch Linux and dead Windows 10 dualboot (im almost never using win$hit lmao), Radeon R5 graphics
+**PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Arch Linux, Zorin OS and dead Windows 10 tripleboot, Radeon R5 graphics
 
 
 
