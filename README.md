@@ -21,6 +21,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=ArchLinux&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-Zorin OS-d8c4f1?style=flat-square&logo=Zorin&logoColor=black"/>&nbsp;&nbsp;
  </center>
 <hr>
 
