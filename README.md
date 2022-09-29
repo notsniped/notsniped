@@ -2,7 +2,7 @@
 
 ## Who am I?
 I am snipe (notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot). I also own the [NKA Software Development](https://github.com/PyBotDevs) organization.
-If you want to collaborate or join NKA, head over to Discord and feel free to throw me a DM.
+If you want to collaborate or join NKA, head over to Discord and feel free to throw me a DM. (notsniped#4573)
 <h3>snipe's code rule: reduce (bloat), reuse and rewrite</h3>
 
 <hr>
