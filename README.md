@@ -28,6 +28,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 ### My current projects
 - [isobot](https://github.com/PyBotDevs/isobot) <sub><sub>new codebase!</sub></sub>
 - [discord-snipe-bot](https://github.com/notsniped/discord-snipe-bot)
+- [Water Reminder Bot](https://github.com/PyBotDevs/water-reminder-bot) <sub><sub>An automatic water reminder service for Discord users</sub></sub>
 - [PyTerm](https://github.com/PyBotDevs/pyterm) <sub><sub>Python-based OSS terminal for GNU/Linux distros</sub></sub>
 
 ### Links
