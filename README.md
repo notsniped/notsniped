@@ -10,7 +10,8 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
   <h2 align="center">Github Stats</h2>
   <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api?username=notsniped&show_icons=true&hide_border=false&line_height=20&title_color=336791&icon_color=1b93c9&show_owner=true&theme=dark"/>
   <img align="center" width="90%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsniped&layout=compact&langs_count=6&theme=dark">
-  <br>
+  <br>Views: <img align="center" src="https://profile-counter.glitch.me/notsniped/count.svg">
+ <br>
   <h2 align="center">Languages & Platforms</h2>
   <span>
     <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white"/>&nbsp;&nbsp;
