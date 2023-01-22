@@ -1,5 +1,7 @@
 <h1 align='center'>Welcome to my bio! o/</h1>
 
+<p align='center'><b>New portfolio website! https://notsniped.github.io/portfolio/</b></p>
+
 ## Who am I?
 I am snipe (notsniped). I am the owner and project-head of multiple services, including [isobot](https://github.com/PyBotDevs/isobot). I also own the [NKA Software Development](https://github.com/PyBotDevs) organization.
 If you want to collaborate or join NKA, head over to Discord and feel free to throw me a DM. (notsniped#4573)
