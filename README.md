@@ -29,10 +29,10 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 <hr>
 
 ### My current projects
-- [isobot](https://github.com/PyBotDevs/isobot) <sub><sub>new codebase!</sub></sub>
-- [discord-snipe-bot](https://github.com/notsniped/discord-snipe-bot)
-- [Water Reminder Bot](https://github.com/PyBotDevs/water-reminder-bot) <sub><sub>An automatic water reminder service for Discord users</sub></sub>
-- [PyTerm](https://github.com/PyBotDevs/pyterm) <sub><sub>Python-based OSS terminal for GNU/Linux distros</sub></sub>
+- [isobot](https://github.com/PyBotDevs/isobot) <sub><sub>good bot</sub></sub>
+- [discord-snipe-bot](https://github.com/notsniped/discord-snipe-bot) <sub><sub>lets you snipe deleted or edited message content on discord</sub></sub>
+- [Water Reminder Bot](https://github.com/PyBotDevs/water-reminder-bot) <sub><sub>an automatic water reminder service for Discord users</sub></sub>
+- [SkyblockPy](https://github.com/PyBotDevs/skyblockpy) <sub><sub>A Python-based API wrapper for Hypixel Skyblock</sub></sub>
 
 ### Links
 <b>Discord Server:</b> https://discord.gg/b5pz8T6Yjr
