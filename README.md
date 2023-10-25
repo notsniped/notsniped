@@ -63,7 +63,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 **PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Radeon R5 graphics
 -->
-**OSes:** Arch Linux, Zorin OS and dead Windows 10 tripleboot
+**OSes:** Windows 11 (actually not broken and not that bad)
 
 
 
