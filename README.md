@@ -41,6 +41,13 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 <b>Instagram:</b> https://www.instagram.com/notsniped/
 
+### Devices
+* Lenovo IdeaPad 5 (15ITL05 / i7 11th Gen)
+* iPhone 7 (non-explosive)
+* iPad (Gen 6)
+* Acer Aspire 3 (A315-21-95KF)
+* Corsair K55 RGB and Corsair Katar Pro XT
+
 ## Extras
 <!--
 ### [osu!](https://github.com/ppy/osu) setup
