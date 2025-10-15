@@ -1,6 +1,6 @@
 <h1 align='center'>Welcome to my bio! o/</h1>
 
-<p align='center'><b>New portfolio website! https://notsniped.github.io/portfolio/</b></p>
+<p align='center'><b>Portfolio: https://notsniped.github.io/portfolio/</b></p>
 
 <h2 align='center'>Discord Server - https://discord.gg/9xd4NvMzmb</h2>
 
@@ -45,8 +45,11 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 ### Devices
 * Lenovo IdeaPad 5 (15ITL05 / i7 11th Gen)
+* iPhone 16e
 * iPhone 7 (non-explosive)
 * iPad (Gen 6)
+* iPad (Gen 3 cellular)
+* Lenovo M10 HD (2-Gen)
 * Acer Aspire 3 (A315-21-95KF)
 * Corsair K55 RGB and Corsair Katar Pro XT
 
@@ -69,7 +72,7 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 
 
-<h6>btw i use arch | Updated 28/09/2022</h6>
+<h6>btw i use arch | Updated 15/10/2025</h6>
 
 <!---
 notsniped/notsniped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
