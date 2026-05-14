@@ -1,6 +1,6 @@
 <h1 align='center'>Welcome to my bio! o/</h1>
 
-<p align='center'><b>Portfolio: https://notsniped.github.io/portfolio/</b></p>
+<p align='center'><b>Portfolio: https://notsniped.github.io/about/</b></p>
 
 <h2 align='center'>Discord Server - https://discord.gg/9xd4NvMzmb</h2>
 
