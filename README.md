@@ -39,8 +39,6 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 ### Links
 <b>Discord Server:</b> https://discord.gg/b5pz8T6Yjr
 
-<b>osu! Profile:</b> https://osu.ppy.sh/users/26943522
-
 <b>Instagram:</b> https://www.instagram.com/notsniped/
 
 ### Devices
