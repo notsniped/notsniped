@@ -41,15 +41,11 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 
 <b>Instagram:</b> https://www.instagram.com/notsniped/
 
-### Devices
-* Lenovo IdeaPad 5 (15ITL05 / i7 11th Gen)
+### My Stack
+* Visual Studio Code
+* Python, C on GCC (WSL)
+* Lenovo Yoga 7i (24G) on Windows 11
 * iPhone 16e
-* iPhone 7 (non-explosive)
-* iPad (Gen 6)
-* iPad (Gen 3 cellular)
-* Lenovo M10 HD (2-Gen)
-* Acer Aspire 3 (A315-21-95KF)
-* Corsair K55 RGB and Corsair Katar Pro XT
 
 ## Extras
 <!--
