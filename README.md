@@ -47,25 +47,6 @@ If you want to collaborate or join NKA, head over to Discord and feel free to th
 * Lenovo Yoga 7i (24G) on Windows 11
 * iPhone 16e
 
-## Extras
-<!--
-### [osu!](https://github.com/ppy/osu) setup
-**Play modes:** tablet, keyboard, sometimes mobile
-
-**Tablet:** Wacom Intuos CTL-4100 (drag)
-
-**Keyboard:** Corsair K55 RGB
-
-**Mouse:** Corsair Katar Pro
-
-**Display:** Lenovo (forgot the model xd)
-
-**PC Specs (2017 year):** AMD A9-9420 (2 cores 3 gpu cores), 12GB DDR4, 500GB Sata SSD (crucial), Radeon R5 graphics
--->
-**OSes:** Windows 11 (actually not broken and not that bad)
-
-
-
 <h6>btw i use arch | Updated 15/10/2025</h6>
 
 <!---
